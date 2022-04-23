@@ -41,4 +41,3 @@ spec:
     - port: 80
       targetPort: 2000
       protocol: TCP
-      http://20.83.128.40/operacion/suma/valor1/150/valor2/100
